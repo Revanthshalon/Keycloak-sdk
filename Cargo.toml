@@ -1,0 +1,16 @@
+[package]
+name = "keycloak-sdk"
+version = "0.1.0"
+edition = "2021"
+license = ""
+description = "Rust port of Keycloack"
+homepage = ""
+repository = ""
+readme = "README.md"
+
+[[bin]]
+name = "keycloak-sdk"
+path = "src/main.rs"
+
+[dependencies]
+serde = { version = "1.0.217", features = ["derive"]}
