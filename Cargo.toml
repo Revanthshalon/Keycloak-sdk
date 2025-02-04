@@ -2,10 +2,10 @@
 name = "keycloak-sdk"
 version = "0.1.0"
 edition = "2021"
-license = ""
+license = "Apache-2.0"
 description = "Rust port of Keycloack"
 homepage = ""
-repository = ""
+repository = "git@github.com:Revanthshalon/Keycloak-sdk.git"
 readme = "README.md"
 
 [[bin]]
